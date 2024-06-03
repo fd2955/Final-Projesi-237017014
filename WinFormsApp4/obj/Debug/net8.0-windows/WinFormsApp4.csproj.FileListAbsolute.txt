@@ -1,0 +1,36 @@
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.KayıtFormuFd.resources
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Properties.Resources.resources
+C:\Users\90553\Desktop\Görsel Programlama\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.frmSatis.resources
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.frmSatis.resources
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.KayıtFormuFd.resources
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Properties.Resources.resources
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\90553\Desktop\OtobusBiletOtomasyonu\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
